@@ -1,13 +1,7 @@
-package club.banyuan.demo;
-
-public class HelloWorld {
-    /* 这是第一个Java程序
-     *它将打印Hello World
-     * 这是一个多行注释的示例
+public class java.java {
+    /* 第一个Java程序
+     * 它将打印字符串 Hello World
      */
-    public static void main(String[] args){
-        // 这是单行注释的示例
-        /* 这个也是单行注释的示例 */
-        System.out.println("Hello World");
+    public static void main(String[] args) {
+        System.out.println("Hello World"); // 打印 Hello World
     }
-}
